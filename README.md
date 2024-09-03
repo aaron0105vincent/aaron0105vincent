@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-✨Fresh Graduate from University of Wollongong's Bachelor of Computer Science(Cyber Security)<br>🔭 I’m currently working on nextjs based attendance system<br>🌱 I’m currently learning cybersecurity and web development<br>💬 Ask or talk to me about tech and IT<br>⚡ Fun fact:  The first time I learned programming was with a LEGO Mindstorms rcx kit which used a drag n drop style programming.
+✨ Fresh Graduate from University of Wollongong's Bachelor of Computer Science(Cyber Security)<br>🔭 I’m currently working on nextjs based attendance system<br>🌱 I’m currently learning cybersecurity and web development<br>💬 Ask or talk to me about tech and IT<br>⚡ Fun fact:  The first time I learned programming was with a LEGO Mindstorms rcx kit which used a drag n drop style programming.
 
 
 ## 🌐 Socials:
