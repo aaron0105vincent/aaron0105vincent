@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-✨ Fresh Graduate from University of Wollongong's Bachelor of Computer Science(Cyber Security)<br>🔭 I’m currently working on my thesis project<br>🌱 I’m currently a master student in Singapore University of Technology and Design<br>💬 Ask or talk to me about tech and IT<br>⚡ Fun fact:  The first time I learned programming was with a LEGO Mindstorms rcx kit which used a drag n drop style programming.
+✨ Master of Science in Security by Design Singapore University of Technology and Design (SUTD)<br>🔭 I’m currently working in an ISP company<br>🌱 I’m currently self learning cyber security to hone my skills and knowledge <br>💬 Ask or talk to me about tech/IT/3d Printing/video games/network/homelab or other related stuff, i do get interested in some engineering stuff too.<br>⚡ Fun fact:  The first time I learned programming was with a LEGO Mindstorms rcx kit which used a drag n drop style programming.
 
 
 ## 🌐 Socials:
